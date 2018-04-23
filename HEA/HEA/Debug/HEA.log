@@ -1,0 +1,10 @@
+﻿  源.cpp
+c:\users\lenovo\desktop\hea\hea\源.cpp(181): warning C4101: “j”: 未引用的局部变量
+c:\users\lenovo\desktop\hea\hea\源.cpp(378): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\lenovo\desktop\hea\hea\源.cpp(379): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  c:\users\lenovo\desktop\hea\hea\源.cpp(379): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\lenovo\desktop\hea\hea\源.cpp(379): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\lenovo\desktop\hea\hea\源.cpp(374): warning C4101: “t”: 未引用的局部变量
+c:\users\lenovo\desktop\hea\hea\源.cpp(496): warning C4101: “i”: 未引用的局部变量
+  HEA.vcxproj -> C:\Users\lenovo\Desktop\HEA\Debug\HEA.exe
+  HEA.vcxproj -> C:\Users\lenovo\Desktop\HEA\Debug\HEA.pdb (Full PDB)
