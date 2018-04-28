@@ -476,7 +476,7 @@ int HEA(int ** G, int N, int K, int *result, FILE *pout)
 	time_t t1, t2;
 	t1 = time(NULL);
 	srand(t1);
-	fprintf(pout, "%d,%d,%d,", t1, population, maxIter);
+	fprintf(pout, "%lld,%d,%d,", t1, population, maxIter);
 
 	for (i = 0; i<population; i++)
 	{
